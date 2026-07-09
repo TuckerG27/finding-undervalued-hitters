@@ -1,0 +1,17 @@
+finding-undervalued-hitters/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│
+├── src/
+│
+├── visuals/
+│
+├── models/
+│
+├── README.md
+│
+└── requirements.txt
